@@ -1,3 +1,4 @@
+//コードを整形しました。
 import java.util.List;
 
 public class StreamCode {
